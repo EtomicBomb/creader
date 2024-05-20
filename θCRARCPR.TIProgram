@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cells</key>
+	<array>
+		<dict>
+			<key>column</key>
+			<integer>1</integer>
+			<key>row</key>
+			<integer>1</integer>
+			<key>stringValue</key>
+			<string>If N=1ThenAsm(prgmθARCMODEArchive prgmθCRSTO1Asm(prgmθARCMODEEndIf N=2:ThenAsm(prgmθARCMODEArchive prgmθCRSTO2Asm(prgmθARCMODEEndIf N=3ThenAsm(prgmθARCMODEArchive prgmθCRSTO3Asm(prgmθARCMODEEndIf N=4ThenAsm(prgmθARCMODEArchive prgmθCRSTO4Asm(prgmθARCMODEEndIf N=5ThenAsm(prgmθARCMODEArchive prgmθCRSTO5Asm(prgmθARCMODEEndIf N=6ThenAsm(prgmθARCMODEArchive prgmθCRSTO6Asm(prgmθARCMODEEndIf N=7ThenAsm(prgmθARCMODEArchive prgmθCRSTO7Asm(prgmθARCMODEEndIf N=8ThenAsm(prgmθARCMODEArchive prgmθCRSTO8Asm(prgmθARCMODEEndIf N=9ThenAsm(prgmθARCMODEArchive prgmθCRSTO9Asm(prgmθARCMODEEndIf N=10ThenAsm(prgmθARCMODEArchive Asm(prgmθARCMODEEndIf N=11ThenAsm(prgmθARCMODEArchive prgmθCRSTO11Asm(prgmθARCMODEEndIf N=12ThenAsm(prgmθARCMODEArchive prgmθCRSTO12Asm(prgmθARCMODEEndIf N=13ThenAsm(prgmθARCMODEArchive prgmθCRSTO13Asm(prgmθARCMODEEndIf N=14ThenAsm(prgmθARCMODEArchive prgmθCRSTO14Asm(prgmθARCMODEEndIf N=15ThenAsm(prgmθARCMODEArchive prgmθCRSTO15Asm(prgmθARCMODEEndIf N=16ThenAsm(prgmθARCMODEArchive prgmθCRSTO16Asm(prgmθARCMODEEndIf N=17ThenAsm(prgmθARCMODEArchive prgmθCRSTO17Asm(prgmθARCMODEEndIf N=18ThenAsm(prgmθARCMODEArchive prgmθCRSTO18Asm(prgmθARCMODEEndIf N=19ThenAsm(prgmθARCMODEArchive prgmθCRSTO19Asm(prgmθARCMODEEndIf N=20ThenAsm(prgmθARCMODEArchive prgmθCRSTO20Asm(prgmθARCMODEEndIf N=21ThenAsm(prgmθARCMODEArchive prgmθCRSTO21Asm(prgmθARCMODEEndIf N=22ThenAsm(prgmθARCMODEArchive prgmθCRSTO22Asm(prgmθARCMODEEndIf N=23ThenAsm(prgmθARCMODEArchive prgmθCRSTO23Asm(prgmθARCMODEEndIf N=24ThenAsm(prgmθARCMODEArchive prgmθCRSTO24Asm(prgmθARCMODEEndIf N=25ThenAsm(prgmθARCMODEArchive prgmθCRSTO25Asm(prgmθARCMODEEndIf N=26ThenAsm(prgmθARCMODEArchive prgmθCRSTO26Asm(prgmθARCMODEEndIf N=27ThenAsm(prgmθARCMODEArchive prgmθCRSTO27Asm(prgmθARCMODEEndIf N=28ThenAsm(prgmθARCMODEArchive prgmθCRSTO28Asm(prgmθARCMODEEndIf N=29ThenAsm(prgmθARCMODEArchive prgmθCRSTO29Asm(prgmθARCMODEEndIf N=30ThenAsm(prgmθARCMODEArchive prgmθCRSTO30Asm(prgmθARCMODEEndIf N=31ThenAsm(prgmθARCMODEArchive prgmθCRSTO31Asm(prgmθARCMODEEndIf N=32ThenAsm(prgmθARCMODEArchive prgmθCRSTO32Asm(prgmθARCMODEEndIf N=33ThenAsm(prgmθARCMODEArchive prgmθCRSTO33Asm(prgmθARCMODEEndIf N=34ThenAsm(prgmθARCMODEArchive prgmθCRSTO34Asm(prgmθARCMODEEndIf N=35ThenAsm(prgmθARCMODEArchive prgmθCRSTO35Asm(prgmθARCMODEEndIf N=36ThenAsm(prgmθARCMODEArchive prgmθCRSTO36Asm(prgmθARCMODEEndIf N=37ThenAsm(prgmθARCMODEArchive prgmθCRSTO37Asm(prgmθARCMODEEndIf N=38ThenAsm(prgmθARCMODEArchive prgmθCRSTO38Asm(prgmθARCMODEEndIf N=39ThenAsm(prgmθARCMODEArchive prgmθCRSTO39Asm(prgmθARCMODEEndIf N=40ThenAsm(prgmθARCMODEArchive prgmθCRSTO40Asm(prgmθARCMODEEndIf N=41ThenAsm(prgmθARCMODEArchive prgmθCRSTO41Asm(prgmθARCMODEEndIf N=42ThenAsm(prgmθARCMODEArchive prgmθCRSTO42Asm(prgmθARCMODEEndIf N=43ThenAsm(prgmθARCMODEArchive prgmθCRSTO43Asm(prgmθARCMODEEndIf N=44ThenAsm(prgmθARCMODEArchive prgmθCRSTO44Asm(prgmθARCMODEEndIf N=45ThenAsm(prgmθARCMODEArchive prgmθCRSTO45Asm(prgmθARCMODEEndIf N=46ThenAsm(prgmθARCMODEArchive prgmθCRSTO46Asm(prgmθARCMODEEndIf N=47ThenAsm(prgmθARCMODEArchive prgmθCRSTO47Asm(prgmθARCMODEEndIf N=48ThenAsm(prgmθARCMODEArchive prgmθCRSTO48Asm(prgmθARCMODEEndIf N=49ThenAsm(prgmθARCMODEArchive prgmθCRSTO49Asm(prgmθARCMODEEndIf N=50ThenAsm(prgmθARCMODEArchive prgmθCRSTO50Asm(prgmθARCMODEEndIf N=51ThenAsm(prgmθARCMODEArchive prgmθCRSTO51Asm(prgmθARCMODEEndIf N=52ThenAsm(prgmθARCMODEArchive prgmθCRSTO52Asm(prgmθARCMODEEndIf N=53ThenAsm(prgmθARCMODEArchive prgmθCRSTO53Asm(prgmθARCMODEEndIf N=54ThenAsm(prgmθARCMODEArchive prgmθCRSTO54Asm(prgmθARCMODEEndIf N=55ThenAsm(prgmθARCMODEArchive prgmθCRSTO55Asm(prgmθARCMODEEndIf N=56ThenAsm(prgmθARCMODEArchive prgmθCRSTO56Asm(prgmθARCMODEEndIf N=57ThenAsm(prgmθARCMODEArchive prgmθCRSTO57Asm(prgmθARCMODEEndIf N=58ThenAsm(prgmθARCMODEArchive prgmθCRSTO58Asm(prgmθARCMODEEndIf N=59ThenAsm(prgmθARCMODEArchive prgmθCRSTO59Asm(prgmθARCMODEEndIf N=60ThenAsm(prgmθARCMODEArchive prgmθCRSTO60Asm(prgmθARCMODEEndIf N=61ThenAsm(prgmθARCMODEArchive prgmθCRSTO61Asm(prgmθARCMODEEnd</string>
+		</dict>
+	</array>
+	<key>device name</key>
+	<string>θCRARCPR</string>
+	<key>device type</key>
+	<string>TI-84 Plus</string>
+	<key>isProtected</key>
+	<false/>
+	<key>object type</key>
+	<string>Program</string>
+</dict>
+</plist>

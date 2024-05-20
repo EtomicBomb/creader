@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cells</key>
+	<array>
+		<dict>
+			<key>column</key>
+			<integer>1</integer>
+			<key>row</key>
+			<integer>1</integer>
+			<key>stringValue</key>
+			<string>"VARS:
+"T-UNIVERSAL CHAR
+"C-CHAR LOCAL TO BLOCK
+"B-CURRENT BLOCK
+"L-TEST BLOCK
+"F-FIRST TIME RUNNING LOOP?
+
+AxesOff
+DelVar Str2ClrDrawFnOff ClrHomeDisp "    CReader!
+Disp "&gt;1. Read"," 2. QuitDelVar A1→SRepeat AOutput(S+1,1,"&gt;getKey→G
+If G
+Output(S+1,1," If max(Ans={92,93G-91→AS-(G=25 and S&gt;1)+(G=34 and S&lt;2→SIf G=105S→AEndIf A=2:StopClrHomeDisp "What page are","you on?Input "&gt;",PClrHomeDisp "How many blocks","did you get?
+Input "&gt;",IFor(N,1,I)
+prgmθCRARCPREnd184P-183→T
+DelVar B1→F
+
+While G≠45
+DelVar G
+If F=0:Then
+Repeat G
+getKey→G
+End
+End
+If G=26
+T+184→T
+If G=24 and T&gt;184
+T-184→T
+If G=21:Then
+ClrHome
+Disp "You are on page:",int((T+183)/184
+Pause
+EndIf G=31:Then
+Disp "Skip to page:
+Input "&gt;",P
+184P-183→T
+End
+ClrHome
+1→L
+1-⌊LEN+cumSum(⌊LEN
+While T≥Ans(L
+L+1→L
+1-⌊LEN+cumSum(⌊LEN
+End
+L-1→L
+If L≠B or F:Then
+Disp "Fetching...
+B→N
+prgmθCRARCPR
+L→B:B→N
+prgmθCRUNARC
+prgmθCRPROGL
+End
+cumSum(⌊LEN
+T+⌊LEN(B)-Ans(B→C
+prgmθCRDISP
+0→F
+End</string>
+		</dict>
+	</array>
+	<key>device name</key>
+	<string>CREADER</string>
+	<key>device type</key>
+	<string>TI-83 Plus</string>
+	<key>isProtected</key>
+	<false/>
+	<key>object type</key>
+	<string>Program</string>
+</dict>
+</plist>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cells</key>
+	<array>
+		<dict>
+			<key>column</key>
+			<integer>1</integer>
+			<key>row</key>
+			<integer>1</integer>
+			<key>stringValue</key>
+			<string>"DISPLAYS PAGE STARTING AT C IN Str2ClrDrawFor(I,1,62,8Text(I,1,sub(Str2,C+23(I-1)/8,23End</string>
+		</dict>
+	</array>
+	<key>device name</key>
+	<string>θCRDISP</string>
+	<key>device type</key>
+	<string>TI-83 Plus</string>
+	<key>isProtected</key>
+	<false/>
+	<key>object type</key>
+	<string>Program</string>
+</dict>
+</plist>

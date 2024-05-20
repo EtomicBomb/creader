@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cells</key>
+	<array>
+		<dict>
+			<key>column</key>
+			<integer>1</integer>
+			<key>row</key>
+			<integer>1</integer>
+			<key>stringValue</key>
+			<string>If N=1ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO1
+Asm(prgmθARCMODEEndIf N=2ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO2Asm(prgmθARCMODEEndIf N=3ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO3Asm(prgmθARCMODEEndIf N=4ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO4Asm(prgmθARCMODEEndIf N=5ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO5Asm(prgmθARCMODEEndIf N=6ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO6Asm(prgmθARCMODEEndIf N=7ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO7Asm(prgmθARCMODEEndIf N=8ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO8Asm(prgmθARCMODEEndIf N=9ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO9Asm(prgmθARCMODEEndIf N=10ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO10Asm(prgmθARCMODEEndIf N=11ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO11Asm(prgmθARCMODEEndIf N=12ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO12Asm(prgmθARCMODEEndIf N=13ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO13Asm(prgmθARCMODEEndIf N=14ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO14Asm(prgmθARCMODEEndIf N=15ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO15Asm(prgmθARCMODEEndIf N=16ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO16Asm(prgmθARCMODEEndIf N=17ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO17Asm(prgmθARCMODEEndIf N=18ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO18Asm(prgmθARCMODEEndIf N=19ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO19Asm(prgmθARCMODEEndIf N=20ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO20Asm(prgmθARCMODEEndIf N=21ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO21Asm(prgmθARCMODEEndIf N=22ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO22Asm(prgmθARCMODEEndIf N=23ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO23Asm(prgmθARCMODEEndIf N=24ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO24Asm(prgmθARCMODEEndIf N=25ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO25Asm(prgmθARCMODEEndIf N=26ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO26Asm(prgmθARCMODEEndIf N=27ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO27Asm(prgmθARCMODEEndIf N=28ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO28Asm(prgmθARCMODEEndIf N=29ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO29Asm(prgmθARCMODEEndIf N=30ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO30Asm(prgmθARCMODEEndIf N=31ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO31Asm(prgmθARCMODEEndIf N=32ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO32Asm(prgmθARCMODEEndIf N=33ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO33Asm(prgmθARCMODEEndIf N=34ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO34Asm(prgmθARCMODEEndIf N=35ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO35Asm(prgmθARCMODEEndIf N=36ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO36Asm(prgmθARCMODEEndIf N=37ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO37Asm(prgmθARCMODEEndIf N=38ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO38Asm(prgmθARCMODEEndIf N=39ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO39Asm(prgmθARCMODEEndIf N=40ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO40Asm(prgmθARCMODEEndIf N=41ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO41Asm(prgmθARCMODEEndIf N=42ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO42Asm(prgmθARCMODEEndIf N=43ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO43Asm(prgmθARCMODEEndIf N=44ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO44Asm(prgmθARCMODEEndIf N=45ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO45Asm(prgmθARCMODEEndIf N=46ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO46Asm(prgmθARCMODEEndIf N=47ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO47Asm(prgmθARCMODEEndIf N=48ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO48Asm(prgmθARCMODEEndIf N=49ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO49Asm(prgmθARCMODEEndIf N=50ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO50Asm(prgmθARCMODEEndIf N=51ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO51Asm(prgmθARCMODEEndIf N=52ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO52Asm(prgmθARCMODEEndIf N=53ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO53Asm(prgmθARCMODEEndIf N=54ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO54Asm(prgmθARCMODEEndIf N=55ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO55Asm(prgmθARCMODEEndIf N=56ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO56Asm(prgmθARCMODEEndIf N=57ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO57Asm(prgmθARCMODEEndIf N=58ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO58Asm(prgmθARCMODEEndIf N=59ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO59Asm(prgmθARCMODEEndIf N=60ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO60Asm(prgmθARCMODEEndIf N=61ThenAsm(prgmθARCMODEUnArchive prgmθCRSTO61Asm(prgmθARCMODEEnd</string>
+		</dict>
+	</array>
+	<key>device name</key>
+	<string>θCRUNARC</string>
+	<key>device type</key>
+	<string>TI-84 Plus</string>
+	<key>isProtected</key>
+	<false/>
+	<key>object type</key>
+	<string>Program</string>
+</dict>
+</plist>

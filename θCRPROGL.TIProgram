@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cells</key>
+	<array>
+		<dict>
+			<key>column</key>
+			<integer>1</integer>
+			<key>row</key>
+			<integer>1</integer>
+			<key>stringValue</key>
+			<string>If N=1
+prgmθCRSTO1
+If N=2
+prgmθCRSTO2
+If N=3
+prgmθCRSTO3
+If N=4
+prgmθCRSTO4
+If N=5
+prgmθCRSTO5
+If N=6
+prgmθCRSTO6
+If N=7
+prgmθCRSTO7
+If N=8
+prgmθCRSTO8
+If N=9
+prgmθCRSTO9
+If N=10
+prgmθCRSTO10
+If N=11
+prgmθCRSTO11
+If N&lt;12
+Return
+If N=12
+prgmθCRSTO12
+If N=13
+prgmθCRSTO13
+If N=14
+prgmθCRSTO14
+If N=15
+prgmθCRSTO15
+If N=16
+prgmθCRSTO16
+If N=17
+prgmθCRSTO17
+If N=18
+prgmθCRSTO18
+If N=19
+prgmθCRSTO19
+If N=20
+prgmθCRSTO20
+If N=21
+prgmθCRSTO21
+If N=22
+prgmθCRSTO22
+If N=23
+prgmθCRSTO23
+If N&lt;24
+Return
+If N=24
+prgmθCRSTO24
+If N=25
+prgmθCRSTO25
+If N=26
+prgmθCRSTO26
+If N=27
+prgmθCRSTO27
+If N=28
+prgmθCRSTO28
+If N=29
+prgmθCRSTO29
+If N=30
+prgmθCRSTO30
+If N=31
+prgmθCRSTO31
+If N=32
+prgmθCRSTO32
+If N=33
+prgmθCRSTO33
+If N=34
+prgmθCRSTO34
+If N=35
+prgmθCRSTO35
+If N=36
+prgmθCRSTO36
+If N=37
+prgmθCRSTO37
+If N=38
+prgmθCRSTO38
+If N=39
+prgmθCRSTO39
+If N=40
+prgmθCRSTO40
+If N=41
+prgmθCRSTO41
+If N=42
+prgmθCRSTO42
+If N=43
+prgmθCRSTO43
+If N=44
+prgmθCRSTO44
+If N=45
+prgmθCRSTO45
+If N=46
+prgmθCRSTO46
+If N=47
+prgmθCRSTO47
+If N&lt;48
+Return
+If N=48
+prgmθCRSTO48
+If N=49
+prgmθCRSTO49
+If N=50
+prgmθCRSTO50
+If N=51
+prgmθCRSTO51
+If N=52
+prgmθCRSTO52
+If N=53
+prgmθCRSTO53
+If N=54
+prgmθCRSTO54
+If N=55
+prgmθCRSTO55
+If N=56
+prgmθCRSTO56
+If N=57
+prgmθCRSTO57
+If N=58
+prgmθCRSTO58
+If N=59
+prgmθCRSTO59
+If N=60
+prgmθCRSTO60
+If N=61
+prgmθCRSTO61</string>
+		</dict>
+	</array>
+	<key>device name</key>
+	<string>θCRPROGL</string>
+	<key>device type</key>
+	<string>TI-84 Plus</string>
+	<key>isProtected</key>
+	<false/>
+	<key>object type</key>
+	<string>Program</string>
+</dict>
+</plist>
